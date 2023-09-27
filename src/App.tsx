@@ -12,7 +12,7 @@ function App() {
 const Git = styled.button`
   color: lightblue;
   border-radius: 8px;
-  font-size: 3rem;
+  font-size: 4rem;
   border-color: green;
 `;
 
